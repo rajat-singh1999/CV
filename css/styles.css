@@ -1,0 +1,28 @@
+body {
+  background-color: #8ec6c5;
+}
+
+h1 {
+  color: #092532;
+}
+
+h3 {
+  color: #092532;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 5%;
+}
+
+a:hover {
+  color: purple;
+}
+
+
+.submit:hover {
+  background-color: blue;
+}
